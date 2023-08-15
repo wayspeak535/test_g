@@ -21,6 +21,6 @@ fi
 $VIRTUALENV/bin/pip install -r requirements.txt
 
 # Run a glorious Python 3 server
-$VIRTUALENV/bin/python app.py
+$VIRTUALENV/bin/python main.py
 
 deactivate
